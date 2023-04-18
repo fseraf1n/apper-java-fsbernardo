@@ -7,3 +7,4 @@
 5. java virtual machine
 6. java runtime environment
 7. false
+8. JAVA_HOME
