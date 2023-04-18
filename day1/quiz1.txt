@@ -5,3 +5,4 @@
 3. java development kit
 4. java virtual machine
 5. java virtual machine
+6. java runtime environment
