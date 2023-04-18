@@ -8,3 +8,6 @@
 6. java runtime environment
 7. false
 8. JAVA_HOME
+9.  public static void main(String[] args) {
+10. 	System.out.println("Francis Serafin Bernardo");
+    }
