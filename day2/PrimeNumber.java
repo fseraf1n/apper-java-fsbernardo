@@ -1,9 +1,16 @@
 public class PrimeNumber {
     public static void main(String[] args) {
-        System.out.println(isPrime(233234557));
+        long startTime = System.nanoTime();
+
+        System.out.println(isPrime(11));
+        
+        long endTime = System.nanoTime();
+        System.out.println("Duration: " + (endTime - startTime));
     }
 
     public static Boolean isPrime(int val) {
+        
+
         if ( val == 2 || val == 3) {
             return true;
         }
