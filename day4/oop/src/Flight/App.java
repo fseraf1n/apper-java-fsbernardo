@@ -26,6 +26,7 @@ public class App {
         manilaToBoracay.addPassenger();
         manilaToBoracay.addPassenger();
 
+
         System.out.println("Current # of available seats: " + manilaToBoracay.seats);
         System.out.println("Current # of passengers: " + manilaToBoracay.passengers);
     }
