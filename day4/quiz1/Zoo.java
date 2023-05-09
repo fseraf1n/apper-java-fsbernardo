@@ -7,6 +7,7 @@ public class Zoo {
         dog.sound();
         dog.chewFood();
         //serafin.feedAssignedAnimal();
+        System.out.println(serafin.salary);
         
     }
 }
